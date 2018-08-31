@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Text Sizes-->
+
+    <dimen name="huge_text_size">25sp</dimen>
+
+    <!--Margins-->
+    <dimen name="small_margin">10dp</dimen>
+</resources>

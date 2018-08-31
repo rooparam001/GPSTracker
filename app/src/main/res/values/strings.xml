@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GPS Tracker</string>
+
+
+    <!--Image Descriptions-->
+    <string name="splash_image_description">Splash Image</string>
+
+    <!--EditText hints-->
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+
+    <!--Button Texts-->
+    <string name="login">Login</string>
+
+
+</resources>
